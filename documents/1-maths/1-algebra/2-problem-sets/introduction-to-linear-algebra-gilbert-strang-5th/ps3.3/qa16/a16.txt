@@ -1,0 +1,15 @@
+The largest possible rank of a 3x5 matrix is 3. 
+Then there is a pivot in every row of U and R.
+Example
+A = 
+⎡1  2  1  0  1⎤
+⎢1  2  4  4  8⎥
+⎣1  4  8  6  8⎦
+U =
+⎡1  2  1  0  1⎤
+⎢0  2  7  6  7⎥
+⎣0  0  3  4  7⎦
+R =
+⎡1  0  0   2      8  ⎤
+⎢0  1  0  -5/3  -14/3⎥
+⎣0  0  1  4/3    7/3 ⎦
