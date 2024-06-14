@@ -1,5 +1,0 @@
-it's not possible because:
-- C(A) has rank of 2, 
-- N(A) has the rank of 2
-=> which means A must have 2 pivot columns and 2 free columns 
-=> A has the shape of (3, 4), in which N(A)  must be in R4 instead of  R3 as required.

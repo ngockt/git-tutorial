@@ -1,1 +1,0 @@
-![alt text](../3-problem-sets/problem-sets-introduction-to-linear-algebra-gilbert-strang-5th/ps3.4/qa43/qa43.md)

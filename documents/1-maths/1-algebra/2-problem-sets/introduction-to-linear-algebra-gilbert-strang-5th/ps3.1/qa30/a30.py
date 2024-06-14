@@ -1,3 +1,0 @@
-# Answer 30 code
-
-ans_file_path = __file__.replace('.py', '.svg')

@@ -1,2 +1,0 @@
-- A and B must have the same number of columns
-- If N(A) and N(B) have ranks of Rna and Rnb, N(C) will have rank of min(Rna, Rnb)
