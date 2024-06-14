@@ -1,0 +1,2 @@
+https://ocw.mit.edu/courses/6-251j-introduction-to-mathematical-programming-fall-2009/pages/syllabus/
+https://www.amazon.com/s?k=Introduction+to+Linear+Optimization&i=stripbooks-intl-ship&crid=1Z2D6D6F0B07H&sprefix=introduction+to+linear+optimization.%2Cstripbooks-intl-ship%2C687&ref=nb_sb_noss_2

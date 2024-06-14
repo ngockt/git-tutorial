@@ -1,0 +1,3 @@
+- Form a matrix that has those vectors as columns
+- Apply row reduce echelon from to find pivot columns
+- rank = number of pivot columns = number of independent vector.
